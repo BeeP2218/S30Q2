@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">S30Q2</string>
+    <string-array name="array_technology">
+    <item>Android</item>
+    <item>Java</item>
+    <item>C</item>
+    <item>Python</item>
+    <item>PHP</item>
+    <item>.NET</item>
+    <item>Ajax</item>
+    <item>MySQL</item>
+    <item>Linux</item>
+    </string-array>
+</resources>
